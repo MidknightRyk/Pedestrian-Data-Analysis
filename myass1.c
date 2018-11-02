@@ -1,4 +1,5 @@
 /* 	Assignment 1 for COMP20005, Semester 1, 2018.
+	University of Melbourne
 	Marishka Nicol Magness, Student ID: 805654
 	mmagness@student.unimelb.edu.au  */
 
